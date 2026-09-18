@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "0adbbc11f7b5cad5161414df",
+  "owner": "yjjocltc",
+  "repo": "page-d2df83e6788676f366d0b07e",
+  "title": "Blinkload",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d2df83e6788676f366d0b07e",
+      "a": "Blinkload",
+      "b": "clash verge官网中文",
+      "entity": "Blinkload",
+      "brand": "Blinkload",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cd7199e6f48a8ae90e10339e819512577fdf4b3749031ad79d5416008cfe8659",
+      "content": {
+        "primary_entity": "Blinkload",
+        "keyword1": "Blinkload",
+        "keyword2": "clash verge官网中文",
+        "content": {
+          "AI_CLIENTS_INTRO": "先确认设备系统与版本，按客户端文档选择对应订阅导入方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量选出合适套餐，再按客户端文档配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐开始使用",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档选择，月付价格从 ¥15 到 ¥85，按年付分别仅需 ¥150、¥350 与 ¥850。基础版适合单人或少量设备，旗舰版支持 5 台设备并加入 IPLC 专线游戏加速优化，团队版面向 20 台设备与高带宽需求。订阅配置可参考客户端文档导入，按设备系统选择合适客户端后即可使用。",
+          "AI_FEATURES_INTRO": "从月流量、在线设备数与线路类型三个方向对比，快速确认适合的套餐。",
+          "AI_FEATURES_TITLE": "选择套餐的三个方向",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按使用强度逐档递增。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，可覆盖个人到小型团队。",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版提供 IPLC 专线与 VIP 节点，普通线路节点池适合日常浏览。",
+          "AI_FEATURE_TITLE_1": "月流量分档",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "线路类型",
+          "AI_GUIDE_INTRO": "按选择服务、核对适配要求、配置订阅三步完成设置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Blinkload 面向跨境访问场景，提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，在线设备数从 3 台到 20 台。可根据设备数量与线路需求选择套餐，并参考客户端文档完成订阅导入。",
+          "AI_HERO_SUBTITLE": "选套餐看需求，配订阅看设备",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付价格更省，按需选择",
+          "AI_PLANS_INTRO": "基础版 ¥15/月适合 3 台设备与 100GB 流量；旗舰版 ¥35/月提供 5 台设备、300GB 流量与 IPLC 专线；团队版 ¥85/月支持 20 台设备与 1000GB 流量。按年付分别仅需 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量估算，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的节点类型、流媒体解锁与设备上限，确认是否满足日常需要。",
+          "AI_STEP_TEXT_3": "按设备系统下载对应客户端，参照其文档导入订阅信息并完成连接。",
+          "AI_STEP_TITLE_1": "挑选套餐",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Blinkload 订阅套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Blinkload 套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "支持在订阅周期内按规则升级，补差价后即可切换至更高档套餐，具体以购买页说明为准。",
+          "AI_FAQ_QUESTION_2": "一台设备可以登录多个客户端吗？",
+          "AI_FAQ_ANSWER_2": "同一账号在套餐允许的设备数量内可登录多个客户端，超出限制时可能影响连接。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付方案价格更低，基础版 ¥150、旗舰版 ¥350、团队版 ¥850，对应月付分别为 ¥15、¥35、¥85。",
+          "AI_FAQ_QUESTION_4": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_4": "当月流量达上限后连接速度可能受限，可等待下月重置或升级至更高流量套餐。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备与 1000GB 月流量，适合小型团队、多终端协作或高流量日常使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f207060d9a25c3326a1165816e809b871bbb3b0066c22cbed40a6e3f98072cf8",
+    "sitemap.xml": "aeb263fd9b13cb22f88e98934074ff484fec71364c8b3f3f22ad780c03723ba5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "bc1db69ed5eab4fbd3f1299eb2876e4e157c81a1781752fe3c19e4bde02b2f2e"
+}
